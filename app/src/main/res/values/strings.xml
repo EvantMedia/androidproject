@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">SQLite Insert</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="add_user">ADD USER</string>
+    <string name="view_data">view data</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="Enter_Name">Enter Name</string>
+    <string name="Enter_Name_to_Delete_Data">Enter Name to Delete Data</string>
+    <string name="Current_Name">Current Name</string>
+    <string name="Enter_Password">Enter Password</string>
+    <string name="New_Name">New Name</string>
 </resources>
